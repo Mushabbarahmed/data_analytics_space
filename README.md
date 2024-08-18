@@ -63,17 +63,17 @@ Results:
 
 Our analysis yielded intriguing results:
 
--Random Forest emerged as the top performer with an impressive 94.02% accuracy.
--Gradient Boosting followed closely with 92.82% accuracy.
--Neural Network and KNN showed moderate performance with accuracies of 85.17% and 83.25% respectively.
--SVM, surprisingly, underperformed with 77.99% accuracy.
+- Random Forest emerged as the top performer with an impressive 94.02% accuracy.
+  
+- Gradient Boosting followed closely with 92.82% accuracy.
+- 
+- Neural Network and KNN showed moderate performance with accuracies of 85.17% and 83.25% respectively.
+- 
+- SVM, surprisingly, underperformed with 77.99% accuracy.
 
 ## Conclusion
 -The project demonstrates the power of machine learning in understanding and predicting satellite orbits. By correctly classifying inclination groups, we are taking a step toward better control and utilization of Earth’s ever-expanding orbital space. As we continue to launch satellites, predictive capabilities will become even more important. The intersection of space technology and data science promises exciting advances as we explore the final frontier.
 
 ## Future Work
 -This work also demonstrates the potential of machine learning in space science, opening the door to further applications in orbit prediction and location recognition.
-
-## References
-List all the references, including papers, tools, datasets, and libraries, used in the project.
 
