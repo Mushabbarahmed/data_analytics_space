@@ -34,11 +34,15 @@ This rich dataset provides a comprehensive view of modern satellite orbits and f
 ## Methodology
 We used five different machine learning methods to estimate satellite inclination groups:
 
-Random Forest: An integrated learning method for building multiple decision trees.
-Gradient Boosting: Another ensemble technique that builds trees sequentially.
-Support Vector Machine (SVM): A powerful algorithm for classification tasks.
-Neural Network: A deep learning approach mimicking the human brain’s structure.
-K-Nearest Neighbours (KNN): A simple yet effective algorithm based on proximity in feature space.
+- Random Forest: An integrated learning method for building multiple decision trees.
+  
+- Gradient Boosting: Another ensemble technique that builds trees sequentially.
+  
+- Support Vector Machine (SVM): A powerful algorithm for classification tasks.
+  
+- Neural Network: A deep learning approach mimicking the human brain’s structure.
+  
+- K-Nearest Neighbours (KNN): A simple yet effective algorithm based on proximity in feature space.
 
 ## Data Preprocessing
 While raw data is important, it often needs refinement. We use a number of prioritization techniques to ensure the robustness of our analysis:
@@ -52,11 +56,7 @@ While raw data is important, it often needs refinement. We use a number of prior
 ## Exploratory Data Analysis (EDA)
 Describe the exploratory analysis performed on the dataset. Highlight key insights, visualizations, and any patterns or trends observed.
 
-## Modeling and Algorithms
-Detail the different machine learning or statistical models applied to the data. For each model:
-- Explain the rationale behind its selection
-- Provide the implementation details
-- Discuss any hyperparameter tuning performed
+
 
 ## Results and Evaluation
 Results:
@@ -66,9 +66,9 @@ Our analysis yielded intriguing results:
 - Random Forest emerged as the top performer with an impressive 94.02% accuracy.
   
 - Gradient Boosting followed closely with 92.82% accuracy.
-- 
+  
 - Neural Network and KNN showed moderate performance with accuracies of 85.17% and 83.25% respectively.
-- 
+  
 - SVM, surprisingly, underperformed with 77.99% accuracy.
 
 ## Conclusion
